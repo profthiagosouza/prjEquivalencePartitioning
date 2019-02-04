@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class Programa {
 
+	/**
+	 * exemplo de Javadoc
+	 * @param args
+	 */
 	public static void main(String[] args) {
 			Scanner leia = new Scanner(System.in);
 			System.out.println("Digite o valor mínimo: ");
