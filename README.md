@@ -1,2 +1,3 @@
 # prjEquivalencePartitioning
-Particionamento em classes de equivalência
+
+## Particionamento em classes de equivalência
