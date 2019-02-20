@@ -1,1 +1,8 @@
-/control/
+/target/
+*.class
+*.vscode
+/.settings/
+/.idea/
+/.classpath
+/.project
+/bin/
